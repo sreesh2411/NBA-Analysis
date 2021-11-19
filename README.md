@@ -1,3 +1,5 @@
+![NBA main image](https://github.com/sreesh2411/NBA-Analysis/blob/main/images/download.jpg)
+
 # NBA-Analysis
 Comparing player metrics and studying NBA patterns to determine the types of players recruiters should search for.
 
