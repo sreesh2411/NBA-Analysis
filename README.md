@@ -1,4 +1,6 @@
-<p align="center">![NBA main image](https://github.com/sreesh2411/NBA-Analysis/blob/main/images/download.jpg)</p>
+<p align="center">
+  <img src="https://github.com/sreesh2411/NBA-Analysis/blob/main/images/download.jpg">
+</p>
 
 # NBA-Analysis
 Comparing player metrics and studying NBA patterns to determine the types of players recruiters should search for.
